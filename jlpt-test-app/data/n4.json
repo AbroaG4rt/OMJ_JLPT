@@ -1,0 +1,46 @@
+{
+  "level": "N4",
+  "timeLimit": 155,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "この パソコンは（　　）やすいです。",
+      "options": ["つかって", "つかう", "つかい", "つかった"],
+      "correct_answer": 2,
+      "explanation": "「～やすい」 (easy to ~) attaches to the stem (Masu-form without masu) of a verb. so つかいます -> つかいやすい."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "かぜで ねつが ある（　　）、きょうは おやすみします。",
+      "options": ["から", "ので", "のに", "でも"],
+      "correct_answer": 1,
+      "explanation": "「ので」 expresses an objective reason or cause. 'Because I have a fever from a cold, I will take the day off today.'"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "もっと ひろい いえ（　　）すみたいです。",
+      "options": ["で", "に", "を", "へ"],
+      "correct_answer": 1,
+      "explanation": "「に」 marks the location of existence or residence with verbs like すむ (to live)."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "これは わたしが（　　） しゃしんです。",
+      "options": ["とる", "とった", "とって", "とろう"],
+      "correct_answer": 1,
+      "explanation": "To modify a noun with a past action, use the Ta-form. 'This is a picture that I took.'"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "おなかが すきましたね。なにか（　　）ませんか。",
+      "options": ["たべる", "たべ", "たべな", "たべない"],
+      "correct_answer": 1,
+      "explanation": "「たべませんか」 is an invitation. The stem is 'たべ'."
+    }
+  ]
+}

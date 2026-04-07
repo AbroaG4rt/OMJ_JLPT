@@ -1,0 +1,46 @@
+{
+  "level": "N1",
+  "timeLimit": 170,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "その けいかくは、じゅうぶんな しきんが ない（　　）、ざんねんながら ちゅうしと なった。",
+      "options": ["こととて", "ゆえに", "ばかりに", "からには"],
+      "correct_answer": 0,
+      "explanation": "「～こととて」 is a formal expression meaning 'because / since'. 'Because there are no sufficient funds, the plan was unfortunately cancelled.'"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "かれの スピーチは、きくひとに かんどうを あたえ（　　）すばらしい 内容だった。",
+      "options": ["ずにはおかない", "ざるをえない", "てやまない", "をよぎなくされる"],
+      "correct_answer": 0,
+      "explanation": "「～ずにはおかない」 means 'will definitely ~ / cannot help but ~ (cause an emotional reaction)'. 'His speech was so wonderful it couldn't help but move the listeners.'"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "けっか（　　）プロセスも だいじに しなければならない。",
+      "options": ["はいざしらず", "はおろか", "からして", "はさることながら"],
+      "correct_answer": 3,
+      "explanation": "「～はさることながら」 means 'Not only A (which is obvious), but also B'. 'The result goes without saying, but the process must also be valued.'"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "ちょっと ほめられた からといって、そんなに いいきに なる（　　）。",
+      "options": ["べからず", "まじき", "ものか", "ものではない"],
+      "correct_answer": 3,
+      "explanation": "「～ものではない」 is used to give moral advice or state common sense not to do something. 'Just because you got praised a little, you shouldn't get so carried away.'"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "かれの えがおには、どこか さびしさ（　　）を かんじる。",
+      "options": ["めいたもの", "がちなもの", "ぎみなもの", "らしいもの"],
+      "correct_answer": 0,
+      "explanation": "「～めく」 means 'to show signs of ~ / to look like ~'. 'I feel something tinged with loneliness in his smile.'"
+    }
+  ]
+}

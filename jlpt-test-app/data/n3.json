@@ -1,0 +1,46 @@
+{
+  "level": "N3",
+  "timeLimit": 140,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "やまださんは いつも げんき（　　）に はなします。",
+      "options": ["そう", "な", "らしい", "みたい"],
+      "correct_answer": 0,
+      "explanation": "「～そうに」 means 'looking like' or 'appearing to be'. 'Yamada always speaks looking energetic.'"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "この くすりは しょくごに（　　）ことになっています。",
+      "options": ["のむ", "のんで", "のまない", "のんだ"],
+      "correct_answer": 0,
+      "explanation": "「～ことになっている」 expresses a rule or custom. Requires dictionary form."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "しらない ひとに みちを（　　）。",
+      "options": ["ききました", "きかせました", "きかれました", "きいていました"],
+      "correct_answer": 2,
+      "explanation": "Passive voice 「きかれる」 is used here: 'I was asked for directions by a stranger.'"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "あの えいがは おもしろい（　　）、ぜったい みたほうが いいですよ。",
+      "options": ["らしいから", "そうだから", "みたいのに", "からには"],
+      "correct_answer": 0,
+      "explanation": "「らしい」 means 'it seems' based on hearsay. 'I hear that movie is interesting, so you should definitely watch it.'"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "きのう、かさを（　　）まま、でかけて しまいました。",
+      "options": ["わすれた", "わすれる", "わすれて", "わすれない"],
+      "correct_answer": 0,
+      "explanation": "「～たまま」 expresses an unchanged state. 'I left while still having forgotten my umbrella.'"
+    }
+  ]
+}

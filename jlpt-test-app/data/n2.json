@@ -1,0 +1,46 @@
+{
+  "level": "N2",
+  "timeLimit": 155,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "かれは かぜを ひいている（　　）、プールで およいでいる。",
+      "options": ["にかかわらず", "にきまっている", "にすぎない", "にちがいない"],
+      "correct_answer": 0,
+      "explanation": "「～にもかかわらず」 means 'despite'. 'Despite having a cold, he is swimming in the pool.'"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "こんなに むずかしい もんだい、わたしに わかる（　　）。",
+      "options": ["わけがない", "ものがある", "ことではない", "どころではない"],
+      "correct_answer": 0,
+      "explanation": "「わけがない」 strongly denies a possibility. 'There's no way I can understand such a difficult problem.'"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "じかんが ないから、あいさつは（　　）、はやく はじめましょう。",
+      "options": ["ぬきにして", "ともかく", "にかぎり", "ばかりに"],
+      "correct_answer": 0,
+      "explanation": "「～ぬきにして」 means 'skipping ~' or 'leaving out ~'. 'Since we don't have time, let's skip the greetings and start.'"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "あめが ふってきた。かさがないし、タクシーで かえる（　　）ない。",
+      "options": ["よりほかに", "わけに", "はずが", "ことか"],
+      "correct_answer": 0,
+      "explanation": "「～よりほかない」 means 'there is no choice but to ~'. 'It's raining and I have no umbrella, so I have no choice but to take a taxi home.'"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "せっかく りょこうに きたのだから、はれれば いい（　　）、あいにくの あめだ。",
+      "options": ["ものを", "ばかりか", "からこそ", "からして"],
+      "correct_answer": 0,
+      "explanation": "「～ものを」 expresses regret or dissatisfaction about a contrast. 'It would have been fine if it was sunny since we came all this way, but unfortunately it is raining.'"
+    }
+  ]
+}
